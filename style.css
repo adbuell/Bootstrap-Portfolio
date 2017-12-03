@@ -1,0 +1,121 @@
+.col-sm-6 {
+  padding: 5%;
+}
+
+h1 {
+  padding-left:3%;
+}
+header {
+  background-color: #a7e8bd;
+
+}
+.words {
+  padding-right: 20px;
+}
+
+.profilepic {
+  width: 100%;
+  height: auto;
+  padding-right: 20px;
+  padding-left: 5px;
+
+}
+#customnav {
+
+  color: #656668;
+  height: 100px;
+}
+
+.navbar-brand {
+  background-color: white;
+  font-size: 25px;
+  height: 70px;
+  width: 200px;
+  text-align: center;
+  padding-top: 10px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  margin-left: 0px;
+}
+
+body {
+  font-family: Raleway;
+  background-image: url("assets/images/spiration-light.png");
+  background-position: left;
+  background-repeat: repeat;
+  color: #656668;
+}
+#name {
+  width: 400px;
+
+}
+#email {
+  width: 400px;
+  padding-top: 5px;
+
+}
+
+#message {
+  width: 400px;
+
+
+}
+#contact-form {
+  padding: 20px;
+}
+.work {
+width: 20px;
+height: 300px;
+
+}
+
+section {
+  border-style: solid;
+  border-color: #656668;
+  border-width: medium;
+  background-color: white;
+  margin-top: 50px;
+
+}
+.section1 {
+  padding: 20px;
+}
+.border2 {
+  border-bottom-color: #656668;
+  border-bottom-style: solid;
+  padding-left: 1%;
+}
+
+aside {
+  padding: 20px;
+  border-style: solid;
+  border-color: #656668;
+  text-align: center;
+  background-color: white;
+  margin-top: 50px;
+}
+
+.navbar {
+  padding: 0px;
+}
+.container-fluid {
+    background-color: #a7e8bd;
+    padding-top: 10px;
+  }
+
+#customnav .nav-link  {
+  color: #656668;
+}
+
+#customnav .navbar-brand {
+  color: #656668;
+}
+
+#navbarSupportedContent {
+  margin-left: 600px;
+}
+
+footer {
+  height: 50px;
+}
